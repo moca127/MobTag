@@ -1,0 +1,9 @@
+name: MobTag
+main: kr.mocha.MobTag
+author: mocha
+version: 1.0-SNAPSHOT
+api: [1.0.0]
+  
+permissions :
+ mobtag.cmd :
+  default : OP
